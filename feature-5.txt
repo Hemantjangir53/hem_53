@@ -1,0 +1,3 @@
+rebase and marge
+git pull origin master --rebase
+git log --oneline
