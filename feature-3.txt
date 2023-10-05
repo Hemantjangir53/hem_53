@@ -1,0 +1,4 @@
+git status
+git log --oneline 
+git log --oneline --pretty
+
