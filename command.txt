@@ -1,0 +1,6 @@
+first file of hem_53 folder 
+git status 
+git init 
+git remote -v 
+git remote add origin <newurl>
+
