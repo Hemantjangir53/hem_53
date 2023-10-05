@@ -1,0 +1,3 @@
+first we open the local linax command line terminal
+then open the demo floder where we do the exercise on this 
+then make a new folder, this folder name same as github folder 
