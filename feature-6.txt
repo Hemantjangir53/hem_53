@@ -1,3 +1,4 @@
 cherry-pick 
 git cherry-pick <version-id>
-
+------------------------------
+git status
