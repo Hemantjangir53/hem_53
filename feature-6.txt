@@ -2,3 +2,6 @@ cherry-pick
 git cherry-pick <version-id>
 ------------------------------
 git status
+-------------
+git revert <vcs_id>
+git reset <vcs_id>
